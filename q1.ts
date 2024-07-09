@@ -23,3 +23,5 @@ getUser(input2).then((result) => console.log(result));
 
 // module.exports = getUser;
 export default getUser;
+
+//660610789 รัชชานนท์ ไชยวงค์
